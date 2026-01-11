@@ -16,7 +16,7 @@ _To remove a link that was previously created_
 
 ## Demo Video
 
-Youtube EDR-Redir V2: [https://youtu.be/PbXPChdWy3E](https://youtu.be/PbXPChdWy3E)
+Youtube EDR-Redir V2: [https://youtu.be/mSywzuGsirU](https://youtu.be/mSywzuGsirU)
 
 ## Author:
 
